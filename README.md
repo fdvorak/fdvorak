@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a postdoctoral researcher at the [Swiss Federal Institute of Aquatic Science and Technology (Eawag)](https://www.eawag.ch/en/), the [Swiss Center of Excellence on Net Zero Emissions (SCENE)](https://www.scene-project.ch/), and the [Chair of Applied Research in Economics of the University of Konstanz](https://www.wiwi.uni-konstanz.de/fischbacher/fischbacher/). I am also affiliated to the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/) and the [Thurgau Institute of Economics](https://www.twi-kreuzlingen.ch/en/).
+I’m a scientist at the [Swiss Federal Institute of Aquatic Science and Technology (Eawag)](https://www.eawag.ch/en/), the [Swiss Center of Excellence on Net Zero Emissions (SCENE)](https://www.scene-project.ch/), and the [Chair of Applied Research in Economics of the University of Konstanz](https://www.wiwi.uni-konstanz.de/fischbacher/fischbacher/). I am also affiliated to the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/) and the [Thurgau Institute of Economics](https://www.twi-kreuzlingen.ch/en/).
 
 My research is in behavioral and experimental economics with an applied focus on environmental problems and human-algorithm interaction. I combine data from laboratory, online, and survey experiments with computational modeling and advanced statistical methods to understand human decision-making. Most of my work is related to social influence or social learning.
 
